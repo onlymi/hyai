@@ -1,2 +1,2 @@
 # hyai
-HYAI 
+HYAI Class
